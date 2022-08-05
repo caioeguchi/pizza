@@ -1,1 +1,3 @@
 # pizza
+
+Decorator design pattern
